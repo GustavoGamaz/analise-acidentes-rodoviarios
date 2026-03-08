@@ -30,5 +30,13 @@ Compreender quais fatores estão mais associados à ocorrência e gravidade de a
 - Gráficos gerados a partir dos dados
 - Documentação do estudo
 
+## Visualizações
+
+### Top 10 acidentes
+![Top 10 acidentes](Grafico%20top%2010%20Acidentes.png)
+
+### Classificação dos acidentes
+![Classificação](Grafico%20classifica%C3%A7%C3%B5es%20dos%20acidentes.png)
+
 ## Autor
 Gustavo Vitor Santos da Gama
